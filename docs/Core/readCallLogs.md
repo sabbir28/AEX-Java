@@ -10,7 +10,6 @@ The `ReadCallLogs` class provides functionality to read call logs from the devic
 ### Constructor
 
 ```markdown
-```java
 ReadCallLogs(Context context, Activity activity)
 ```
 
