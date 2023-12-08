@@ -1,6 +1,6 @@
 Certainly! Here is a Markdown file explaining the `ReadCallLogs` class and its usage:
 
-```markdown
+
 # ReadCallLogs Class Documentation
 
 The `ReadCallLogs` class provides functionality to read call logs from the device. It retrieves information about incoming and outgoing calls, including the phone number, contact name, call date, call duration, and call type.
@@ -9,6 +9,7 @@ The `ReadCallLogs` class provides functionality to read call logs from the devic
 
 ### Constructor
 
+```markdown
 ```java
 ReadCallLogs(Context context, Activity activity)
 ```
